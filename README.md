@@ -1,4 +1,4 @@
-project set up with `npm create vite@latest` according to https://vitejs.dev/guide/#scaffolding-your-first-vite-project 
+project set up with `npm create vite@latest` according to https://vitejs.dev/guide/#scaffolding-your-first-vite-project ; "React" project chosen 
 
 done:
 
@@ -44,3 +44,5 @@ Uncaught Error: Error on typia.random(): no transform has been configured. Read 
 # notes
 
 example https://github.com/ryoppippi/unplugin-typia/tree/main/examples/vite-react works for me, including with my type code from this repo copy-pasted
+
+also on `npm run dev` of my repo, I see `[unplugin-typia] Cache enabled` message that indicates that the plugin is somehow loading
